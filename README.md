@@ -41,7 +41,6 @@ Hi there! I'm **Ishira Pahasara**, an aspiring Software Engineer passionate abou
 #### ✨ UI/UX
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-<img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" width="40" />
 
 #### 🔁 APIs & Tools
 
