@@ -79,3 +79,9 @@ Hi there! I'm **Ishira Pahasara**, an aspiring Software Engineer passionate abou
 - 🐦 [X (Twitter)](https://x.com/pahazara)
 
 ---
+
+
+### 📅 GitHub Contribution Graph
+
+[![Ishira's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ishira-web&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
