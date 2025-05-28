@@ -12,7 +12,7 @@ Hi there! I'm **Ishira Pahasara**, an aspiring Software Engineer passionate abou
 
 ---
 ## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/elc_yuri) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)] [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)] [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ishira Pahasara) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/VortexVagnabond) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pahazara) 
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/elc_yuri) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)] [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)] [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/VortexVagnabond) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pahazara) 
 
 ### 🛠️ Tech Stack
 
@@ -41,7 +41,4 @@ Hi there! I'm **Ishira Pahasara**, an aspiring Software Engineer passionate abou
 ---
 
 
-### 📅 GitHub Contribution Graph
-
-[![Ishira's Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=ishira-web&theme=react-dark)](https://github.com/Ashutosh00710/github-readme-activity-graph)
 
