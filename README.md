@@ -1,32 +1,80 @@
-<h1 align="center">🚀 TURNING IDEAS INTO WEBSITES</h1>
+<h1 align="center">🚀 Turning Ideas Into Powerful Web Experiences</h1>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3abe1210-d007-44e9-be5f-ea1f453dd41d" width="400"/>
+  <img src="https://github.com/user-attachments/assets/3abe1210-d007-44e9-be5f-ea1f453dd41d" width="420" />
+</p>
+
+<p align="center">
+  <b>Crafting modern, scalable and user-friendly web applications — one idea at a time.</b>
 </p>
 
 ---
 
-### 👋 About Me
+## 👋 About Me
 
-Hi there! I'm **Ishira Pahasara**, an aspiring Software Engineer passionate about building modern web applications and creative digital experiences. I turn ideas into scalable, user-friendly solutions using modern tech stacks.
+Hi! I’m **Ishira Pahasara** — an aspiring Software Engineer passionate about:
 
----
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/elc_yuri) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)] [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)] [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)] [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/VortexVagnabond) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/pahazara) 
+✨ Building modern, responsive websites  
+⚙️ Turning real-world problems into digital solutions  
+🎨 Mixing creativity with clean engineering practices  
 
-### 🛠️ Tech Stack
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white) ![Green Sock](https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-
-### 🔗 Connect with Me
-
-- 📘 [ORCID](https://orcid.org/0009-0006-9910-2091)
-- 🐦 [X (Twitter)](https://x.com/pahazara)
+> “Good software isn’t just built — it’s carefully designed, tested, and refined.”
 
 ---
 
----
-If you feel Sad Listen to This Song - 💪🏽 (https://shorturl.at/tk8bi)
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://discord.gg/elc_yuri"><img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"></a>
+<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"></a>
+<a href="https://reddit.com/user/VortexVagnabond"><img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white"></a>
+<a href="https://x.com/pahazara"><img src="https://img.shields.io/badge/X-000000?logo=x&logoColor=white"></a>
+</p>
+
 ---
 
+## 🛠️ Tech Stack
+
+### 🌍 Frontend & UI
+![React](https://img.shields.io/badge/React-20232a?logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?logo=javascript&logoColor=F7DF1E)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?logo=greensock&logoColor=white)
+![Chart.js](https://img.shields.io/badge/Chart.js-F5788D?logo=chart.js&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)
+
+### ⚙️ Backend & Tools
+![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens)
+![Git](https://img.shields.io/badge/Git-F05033?logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-121011?logo=github&logoColor=white)
+
+### ☁️ Hosting & Deployment
+![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?logo=netlify&logoColor=white)
+![Render](https://img.shields.io/badge/Render-46E3B7?logo=render&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=white)
+
+---
+
+## 🔗 Profiles
+
+- 📘 ORCID — https://orcid.org/0009-0006-9910-2091  
+- 🐦 Twitter / X — https://x.com/pahazara  
+
+---
+
+## 🎧 Mood Booster
+
+> If you ever feel down — listen to this 👇  
+👉 https://shorturl.at/tk8bi
+
+---
+
+### 🤝 Let’s Build Something Awesome
+
+Have an idea? Want to collaborate?  
+Feel free to reach out — I love working on meaningful projects!
+
+⭐ If you like my work, consider giving a star — it means a lot!
